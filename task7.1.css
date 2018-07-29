@@ -1,0 +1,141 @@
+header{
+    height: 45px;
+    width: 100%;
+    background-color: darkturquoise;
+}
+body{
+    background-color: ghostwhite;
+}
+._Icon1{
+    height: 2px;
+    width: 17px;
+    float: left;
+    margin: 15px 0 4px 12px;
+    background-color: white;
+}
+._Icon2{
+    height: 2px;
+    width: 17px;
+    float: left;
+    margin-left: 12px;
+    background-color: white;
+    clear: left;
+}
+._Icon3{
+    height: 2px;
+    width: 17px;
+    float: left;
+    margin: 4px 0 0 12px;
+    background-color: white;
+    clear: left;
+}
+._div1{
+    font-size: 17px;
+    height: 60px;
+    line-height: 60px;
+    text-align: center;
+    border: lightgrey solid 1px;
+    margin: 13px 16px;
+    background-color: white;
+    color: grey;
+}
+._div1_Icon{
+    background-image: url(".idea/img.png");
+    background-size: 409px 102px;
+    height: 20px;
+    width: 12px;
+    background-position: -7px 0;
+    float: right;
+    margin: 19px 7px 0 0;
+}
+._div2{
+    height: 400px;
+    background-color: white;
+    border: lightgrey solid 1px;
+    font-size: 19px;
+    margin: 0 16px;
+}
+.name{
+    height: 45px;
+    line-height: 45px;
+    text-align: center;
+    color: darkorange;
+}
+hr{
+    background-color: darkorange;
+    margin: 0;
+    padding: 0;
+}
+.edition1{
+    font-size: 16px;
+    margin: 15px 25px 0 25px;
+    background-color: darkturquoise;
+    height: 68px;
+    line-height: 68px;
+    text-align: center;
+    color: white;
+}
+.edition2{
+    font-size: 16px;
+    margin: 0 25px;
+    background-color: darkturquoise;
+    height: 68px;
+    line-height: 68px;
+    text-align: center;
+    color: white;
+}
+.edition3{
+    font-size: 16px;
+    margin: 0 25px 0 25px;
+    background-color: darkturquoise;
+    height: 68px;
+    line-height: 68px;
+    text-align: center;
+    color: white;
+}
+.remarks{
+    font-size: 12px;
+    text-align: center;
+    height: 40px;
+    line-height: 40px;
+    color: grey;
+}
+._round{
+    height: 13px;
+}
+.round{
+    height: 13px;
+    width: 40px;
+    margin: 0 auto;
+}
+.round1{
+    background-color: darkturquoise;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    margin-right: 4px;
+    float: left;
+}
+.round2{
+    background-color: lightgrey;
+    width: 6px;
+    height: 6px;
+    border-radius: 50%;
+    margin-right: 4px;
+    float: left;
+}
+.next{
+    background-image: url(".idea/img.png");
+    background-size: 409px 102px;
+    height: 28px;
+    width: 14px;
+    background-position: -33px 0;
+    position: absolute;
+    top: 318px;
+    right: 20px;
+}
+button{
+    width: 100%;
+    background-color: darkturquoise;
+    border: none;
+}
